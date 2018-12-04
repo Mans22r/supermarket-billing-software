@@ -1,8 +1,9 @@
 Supermarket billing system
 ==========================
-####This supermarket billing system is programmed to
+This supermarket billing system is programmed to
 assist supermarket owners and employees and help 
 them expand thier business
+----
 
 Features
 --------
