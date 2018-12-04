@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\Super market billing system\Super market billing system\bin\Debug\Super market billing system.exe.config
+C:\Users\HP\source\repos\Super market billing system\Super market billing system\bin\Debug\Super market billing system.exe
+C:\Users\HP\source\repos\Super market billing system\Super market billing system\bin\Debug\Super market billing system.pdb
+C:\Users\HP\source\repos\Super market billing system\Super market billing system\obj\Debug\Super market billing system.csprojResolveAssemblyReference.cache
+C:\Users\HP\source\repos\Super market billing system\Super market billing system\obj\Debug\Super_market_billing_system.Properties.Resources.resources
+C:\Users\HP\source\repos\Super market billing system\Super market billing system\obj\Debug\Super market billing system.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\Super market billing system\Super market billing system\obj\Debug\Super market billing system.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Super market billing system\Super market billing system\obj\Debug\Super market billing system.exe
+C:\Users\HP\source\repos\Super market billing system\Super market billing system\obj\Debug\Super market billing system.pdb
+C:\Users\HP\source\repos\Super market billing system\Super market billing system\obj\Debug\Super_market_billing_system.LoginWindow.resources
+C:\Users\HP\source\repos\Super market billing system\Super market billing system\obj\Debug\Super_market_billing_system.SalesmanForm.resources
+C:\Users\HP\source\repos\Super market billing system\Super market billing system\obj\Debug\Super_market_billing_system.AddProduct.resources
+C:\Users\HP\source\repos\Super market billing system\Super market billing system\obj\Debug\Super_market_billing_system.AdminWindow.resources
+C:\Users\HP\source\repos\Super market billing system\Super market billing system\obj\Debug\Super_market_billing_system.About.resources
+C:\Users\HP\source\repos\Super market billing system\Super market billing system\obj\Debug\Super_market_billing_system.ModifyProduct.resources
